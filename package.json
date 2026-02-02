@@ -1,6 +1,6 @@
 {
   "name": "iautokit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI para inicialização rápida de projetos com frameworks de agentes pré-configurados (ResearchKit e SpecKit)",
   "keywords": [
     "cli",
@@ -15,7 +15,7 @@
   ],
   "main": "src/cli.js",
   "bin": {
-    "iautokit": "./src/cli.js"
+    "iautokit": "src/cli.js"
   },
   "scripts": {
     "test": "echo \"No tests yet\" && exit 0"

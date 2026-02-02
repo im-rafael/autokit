@@ -6,3 +6,7 @@
 specs/
 specs/**
 .specify/**
+knowledgebase/
+knowledgebase/**
+specs
+specs/**

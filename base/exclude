@@ -1,0 +1,8 @@
+.serena/
+.github/
+.research/
+.specify/
+.vscode/
+specs/
+specs/**
+.specify/**

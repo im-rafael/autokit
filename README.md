@@ -1,10 +1,10 @@
-# Autokit
+# iAutokit
 
-**Autokit** é uma ferramenta CLI para inicialização rápida de projetos com frameworks de agentes pré-configurados para pesquisa rigorosa e especificação técnica.
+**iAutokit** é uma ferramenta CLI para inicialização rápida de projetos com frameworks de agentes pré-configurados para pesquisa rigorosa e especificação técnica.
 
 ## Visão Geral
 
-O Autokit copia estruturas de diretórios, agentes do GitHub Copilot, prompts e scripts para o diretório de trabalho atual, automatizando a configuração inicial de dois frameworks poderosos:
+O iAutokit copia estruturas de diretórios, agentes do GitHub Copilot, prompts e scripts para o diretório de trabalho atual, automatizando a configuração inicial de dois frameworks poderosos:
 
 - **ResearchKit**: Framework de agentes para construção rigorosa e incremental de bases de conhecimento
 - **SpecKit**: Framework de agentes para especificação e implementação técnica de features
@@ -77,13 +77,13 @@ Framework para especificação técnica e planejamento de implementação:
 ## Instalação
 
 ```bash
-npm install -g autokit
+npm install -g iautokit
 ```
 
 Ou execute diretamente com `npx`:
 
 ```bash
-npx autokit
+npx iautokit
 ```
 
 ## Uso
@@ -91,7 +91,7 @@ npx autokit
 No diretório raiz do seu projeto:
 
 ```bash
-autokit
+iautokit
 ```
 
 Isso irá:
@@ -214,8 +214,8 @@ Contribuições são bem-vindas! O projeto segue princípios de:
 
 ## Licença
 
-[Adicionar licença]
+MIT License - veja [LICENSE](LICENSE) para detalhes.
 
 ## Suporte
 
-Para issues e dúvidas, abra uma issue no repositório.
+Para issues e dúvidas, abra uma issue no [repositório GitHub](https://github.com/im-rafael/iautokit/issues).

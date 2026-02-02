@@ -1,0 +1,13 @@
+# Development files
+.git/
+.vscode/
+node_modules/
+
+# Documentation (já incluído via files em package.json)
+*.log
+.DS_Store
+
+# Keep these out of npm package
+.github/workflows/
+test/
+*.test.js

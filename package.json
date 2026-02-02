@@ -1,0 +1,42 @@
+{
+  "name": "iautokit",
+  "version": "1.0.0",
+  "description": "CLI para inicialização rápida de projetos com frameworks de agentes pré-configurados (ResearchKit e SpecKit)",
+  "keywords": [
+    "cli",
+    "github-copilot",
+    "agents",
+    "research",
+    "specification",
+    "framework",
+    "automation",
+    "researchkit",
+    "speckit"
+  ],
+  "main": "src/cli.js",
+  "bin": {
+    "iautokit": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-rafael/iautokit.git"
+  },
+  "author": "Rafael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/im-rafael/iautokit/issues"
+  },
+  "homepage": "https://github.com/im-rafael/iautokit#readme",
+  "files": [
+    "src/",
+    "base/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
